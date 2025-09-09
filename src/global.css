@@ -9,6 +9,11 @@
   font-size: 1rem;
 }
 
+input,
+button {
+  font-family: "Noto Sans", serif;
+}
+
 body {
   background-color: #f5f5fa;
 }
