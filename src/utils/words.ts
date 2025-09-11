@@ -5,6 +5,6 @@ export type Challenge = {
 };
 
 export const WORDS: Challenge[] = [
-  { id: 1, word: "CSS", tip: "Linguagem de estilos" },
-  { id: 2, word: "REACT", tip: "Biblioteca para criar interfaces Web" },
+  { id: 1, word: "BANANA", tip: "Fruta" },
+  { id: 2, word: "FERRARI", tip: "Marca famosa de carro" },
 ];
